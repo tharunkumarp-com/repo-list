@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.each-repo {
+  background-color: #f8f8ff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 25vh;
+  margin: 30px;
+  border-radius: 10px;
+  padding: 10px;
+}
+.heading {
+  font-size: 18px;
+  color: #e73959;
+}
+.all-paras {
+  display: flex;
+  flex-direction: column;
+}
+.repo-image {
+  height: 80px;
+  width: 80px;
+}
+.each-para {
+  display: flex;
+}
+.count-image {
+  align-self: center;
+  width: 20px;
+  height: 20px;
+}
